@@ -289,6 +289,8 @@ This project is licensed under the **MIT License**.
 Thanks to the Python community and all open-source contributors whose tools and libraries make projects like this possible.
 
 ---
+Explaintion video :
+https://drive.google.com/file/d/1URanNHjh4cZSYU8HSqBA5_FZG21p5u0D/view?usp=drive_link
 
 ## ⭐ Support
 
