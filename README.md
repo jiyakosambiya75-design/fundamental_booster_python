@@ -277,10 +277,10 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Your Name**
+**Jiya**
 
-- GitHub: https://github.com/your-username
-- Email: your.email@example.com
+- GitHub: https://github.com/jiyakosambiya75-design
+- Email: jiyakosambiya75@gmail.com
 
 ---
 
